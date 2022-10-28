@@ -1,3 +1,5 @@
 console.log("Hello World!");
 
-let myName = "Moz";
+let myName = "Brian";
+
+console.log("This is my very simple code.");
